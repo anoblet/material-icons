@@ -1,0 +1,15 @@
+export declare const home: import("lit-element").TemplateResult;
+export declare const code: import("lit-element").TemplateResult;
+export declare const mail_outline: import("lit-element").TemplateResult;
+export declare const expand_more: import("lit-element").TemplateResult;
+export declare const expand_less: import("lit-element").TemplateResult;
+export declare const close: import("lit-element").TemplateResult;
+export declare const _delete: import("lit-element").TemplateResult;
+export declare const delete_outline: import("lit-element").TemplateResult;
+export declare const notes: import("lit-element").TemplateResult;
+export declare const create: import("lit-element").TemplateResult;
+export declare const show_chart: import("lit-element").TemplateResult;
+export declare const pan_tool: import("lit-element").TemplateResult;
+export declare const launch: import("lit-element").TemplateResult;
+export declare const extension: import("lit-element").TemplateResult;
+export declare const menu: import("lit-element").TemplateResult;

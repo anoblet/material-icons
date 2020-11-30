@@ -13,3 +13,4 @@ export declare const pan_tool: import("lit-element").TemplateResult;
 export declare const launch: import("lit-element").TemplateResult;
 export declare const extension: import("lit-element").TemplateResult;
 export declare const menu: import("lit-element").TemplateResult;
+export declare const keyboard_arrow_right: import("lit-element").TemplateResult;

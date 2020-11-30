@@ -2,12 +2,11 @@
   "name": "@anoblet/material-icons",
   "version": "0.0.1",
   "description": "",
-  "main": "dist/index.js",
+  "main": "./lib/index.js",
   "scripts": {
-    "build": "rollup --config",
+    "build": "tsc",
     "save": "git add . && git commit -m \"Chore: Save\"",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "rollup --config -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
@@ -15,12 +14,6 @@
     "lit-element": "^2.2.0"
   },
   "devDependencies": {
-    "rollup": "^1.16.6",
-    "rollup-plugin-typescript2": "^0.24.3",
-    "tslib": "^1.10.0",
-    "typescript": "^3.5.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "typescript": "^4.1.2"
   }
 }
